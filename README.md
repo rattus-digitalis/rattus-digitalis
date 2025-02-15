@@ -67,9 +67,19 @@
 
 ### 🎵 Now Playing  
 🎧 **Current Coding Vibes:**  
-[![Track 1](https://img.shields.io/badge/🎵-Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=kTW5AcuSS7A&t=3003s)  
-[![Track 2](https://img.shields.io/badge/🎵-Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=LzeFXJ4vCWg&t=575s)  
-[![Track 3](https://img.shields.io/badge/🎵-Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=xulXmZrC9uI)  
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=kTW5AcuSS7A&t=3003s" target="_blank">
+    <img src="https://img.shields.io/badge/🎵-Track%201%20|%20Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=LzeFXJ4vCWg&t=575s" target="_blank">
+    <img src="https://img.shields.io/badge/🎵-Track%202%20|%20Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=xulXmZrC9uI" target="_blank">
+    <img src="https://img.shields.io/badge/🎵-Track%203%20|%20Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
