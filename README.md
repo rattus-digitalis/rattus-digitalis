@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome, I'm <span style="color:#ffcc00">Rattus</span></h1>
+<h1 align="center">🐀 Welcome, I'm <span style="color:#ffcc00">Rattus</span></h1>
 <h3 align="center">Cybersecurity & Development Student | Linux Enthusiast 🐧</h3>
 
 <p align="center">
@@ -6,8 +6,10 @@
   <img src="https://img.shields.io/badge/Editors-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editors-Zed-191919?style=for-the-badge&logo=zed&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editors-Code_OSS-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editors-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-Zsh-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
+
 
 ---
 
