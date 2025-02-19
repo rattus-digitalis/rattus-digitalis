@@ -33,9 +33,9 @@
 ---
 
 ### 🔭 Current Projects  
-🚀 **[RattArch OS](#)** – Custom **Arch Linux** ISO with pre-configured hacking & dev tools 🛠️  
-🤖 **[Auto_reko](#)** – Automated **cyber reconnaissance tool** 🕵️  
-🌳 **[Treez_view](#)** – File tree visualization for Linux **with GUI** 🖥️  
+🚀 **[RattArch OS]** – Custom **Arch Linux** ISO with pre-configured hacking & dev tools 🛠️  
+🤖 **[Auto_reko]** – Automated **cyber reconnaissance tool** 🕵️  
+🌳 **[Treez_view]** – File tree visualization for Linux **with GUI** 🖥️  
 
 ---
 
