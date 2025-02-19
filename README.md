@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/Shell-Zsh-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 🚀 About Me  
@@ -20,7 +19,6 @@
 
 ---
 
-### 🔐 Cybersecurity & Hacking  
 ### 🔐 Cybersecurity & Hacking  
 <p align="left">
   <img src="https://img.shields.io/badge/-PWN-DC143C?style=flat-square&logo=hack-the-box&logoColor=white"/>
@@ -33,13 +31,12 @@
   <img src="https://img.shields.io/badge/-CTF-FF4500?style=flat-square&logo=protonmail&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 🔭 Current Projects  
-🚀 **RattArch OS** – Custom **Arch Linux** ISO with pre-configured hacking & dev tools 🛠️  
-🤖 **Auto_reko** – Automated **cyber reconnaissance tool** 🕵️  
-🌳 **Treez_view** – File tree visualization for Linux **with GUI** 🖥️  
+- 🚀 **RattArch OS** – Custom **Arch Linux** ISO with pre-configured hacking & dev tools 🛠️  
+- 🤖 **Auto_reko** – Automated **cyber reconnaissance tool** 🕵️  
+- 🌳 **Treez_view** – File tree visualization for Linux **with GUI** 🖥️  
 
 ---
 
@@ -73,17 +70,16 @@
 🎧 **Current Coding Vibes:**  
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=kTW5AcuSS7A&t=3003s" target="_blank">
-    <img src="https://img.shields.io/badge/🎵-Track%201%20|%20Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.youtube.com/watch?v=kTW5AcuSS7A&t=3003s">
+    <img src="https://img.shields.io/badge/🎵-Lofi%20Coding%20Mix-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=LzeFXJ4vCWg&t=575s" target="_blank">
-    <img src="https://img.shields.io/badge/🎵-Track%202%20|%20Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.youtube.com/watch?v=LzeFXJ4vCWg&t=575s">
+    <img src="https://img.shields.io/badge/🎵-Synthwave%20Retro%20Mix-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <a href="https://www.youtube.com/watch?v=xulXmZrC9uI" target="_blank">
-    <img src="https://img.shields.io/badge/🎵-Track%203%20|%20Click%20to%20Listen-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://www.youtube.com/watch?v=xulXmZrC9uI">
+    <img src="https://img.shields.io/badge/🎵-Cyberpunk%20Music%20Mix-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
