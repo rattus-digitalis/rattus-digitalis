@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/-Cryptanalysis-004080?style=flat-square&logo=gnupg&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SDR-FFA500?style=flat-square&logo=gnuradio&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CTF-FF4500?style=flat-square&logo=protonmail&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CTFtime-FF4500?style=flat-square&logo=protonmail&logoColor=white"/>
 </p>
 
 
