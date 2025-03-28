@@ -20,8 +20,6 @@
 
 ### 🔐 Cybersecurity & Hacking  
 <p align="left">
-  <img src="https://img.shields.io/badge/-PWN-DC143C?style=flat-square&logo=hack-the-box&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Reverse_Engineering-800080?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-OSINT-008000?style=flat-square&logo=osint&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Cryptanalysis-004080?style=flat-square&logo=gnupg&logoColor=white"/>
   <img src="https://img.shields.io/badge/-SDR-FFA500?style=flat-square&logo=gnuradio&logoColor=white"/>
