@@ -1,11 +1,12 @@
 <h1 align="center">🐀 Welcome, I'm <span style="color:#ffcc00">Rattus</span></h1>
-<h3 align="center">Cybersecurity & Development Student | Linux Enthusiast 🐧</h3>
+<h3 align="center">Dev | Admin Système & Réseau | Offensive Security | Linux Poweruser 🐧</h3>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editors-Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white"/>
   <img src="https://img.shields.io/badge/Editors-Code_OSS-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editors-JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white"/>
   <img src="https://img.shields.io/badge/Shell-Zsh-FFD700?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
@@ -41,11 +42,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
 #### 🖥️ DevOps & Tools  
@@ -58,22 +55,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
----
 
-### 🎵 Now Playing  
-🎧 **Current Coding Vibes:**  
-
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=kTW5AcuSS7A&t=3003s">
-    <img src="https://img.shields.io/badge/🎵-Lofi%20Coding%20Mix-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=LzeFXJ4vCWg&t=575s">
-    <img src="https://img.shields.io/badge/🎵-Synthwave%20Retro%20Mix-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/watch?v=xulXmZrC9uI">
-    <img src="https://img.shields.io/badge/🎵-Cyberpunk%20Music%20Mix-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
